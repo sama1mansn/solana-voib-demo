@@ -2,7 +2,7 @@
 # It is not intended for manual editing.
 [[package]]
 name = "adler32"
-version = "1.0.3"
+version = "5.9.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
